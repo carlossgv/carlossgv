@@ -13,15 +13,15 @@
 
 ### :rocket: Coding
 
-<img alt="html" width="7.5%" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png />
+<img alt="html" align="left" width="7.5%" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png />
 
-<img alt="css" width="7.5%" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png />
+<img alt="css" align="left" width="7.5%" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png />
 
-<img alt="bootstrap" width="7.5%" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png />
+<img alt="bootstrap" align="left" width="7.5%" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png />
 
-<img alt="javascript" width="7.5%" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png />
+<img alt="javascript" align="left" width="7.5%" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png />
 
-<img alt="typescript" width="7.5%" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png />
+<img alt="typescript" align="left" width="7.5%" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png />
 
 <img alt="react" width="7.5%" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png />
 
@@ -38,5 +38,7 @@
 <img alt="postgresql" width="7.5%" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png />
 
 ## <br></br>
+
+---
 
 [email]: mailto:carlossgv@gmail.com
