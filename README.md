@@ -32,6 +32,7 @@
     <img alt="sqlite" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
     <img alt="postgresql" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
+
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlossgv&show_icons=true&theme=ayu-mirage)](https://github.com/carlossgv/github-readme-stats)
