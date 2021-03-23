@@ -34,7 +34,6 @@
 </div>
 ---
 
----
 
 [email]: mailto:carlossgv@gmail.com
 [linkedin]: https://www.linkedin.com/in/carlossgv/
