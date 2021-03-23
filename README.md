@@ -34,6 +34,9 @@
 </div>
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlossgv&show_icons=true&theme=ayu-mirage)](https://github.com/carlossgv/github-readme-stats)
+
+
 
 [email]: mailto:carlossgv@gmail.com
 [linkedin]: https://www.linkedin.com/in/carlossgv/
