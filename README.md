@@ -17,7 +17,7 @@
 
 ### :rocket: Skills
 
-<img alt="html" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img alt="html" style="float: left; padding-right: 0 !important" align=left src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="css" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="bootstrap" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img alt="javascript" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
