@@ -6,7 +6,6 @@
 [<img style="float: left; padding-right: 0 !important;" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
 
 <br></br>
-
 - 🔭 I’m currently working on finding my first job as a web developer coming from mechanical engineering.
 - 🌱 I’m currently learning NodeJS
 - 👯 I’m looking to collaborate on ...
