@@ -17,18 +17,20 @@
 
 ### :rocket: Skills
 
-<img alt="html" style="float: left; padding-right: 0 !important" align=left src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img alt="css" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img alt="bootstrap" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img alt="javascript" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img alt="typescript" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img alt="react" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img alt="python" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-<img alt="django" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img alt="flask" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img alt="git" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img alt="sqlite" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img alt="postgresql" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<div style="display: flex">
+    <img alt="html" style="float: left; padding-right: 0 !important" align=left src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img alt="css" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img alt="bootstrap" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img alt="javascript" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img alt="typescript" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img alt="react" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img alt="python" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+    <img alt="django" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+    <img alt="flask" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+    <img alt="git" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img alt="sqlite" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+    <img alt="postgresql" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
 
 ## <br></br>
 
