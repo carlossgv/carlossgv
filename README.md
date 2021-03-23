@@ -24,6 +24,7 @@
     <img alt="javascript" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img alt="typescript" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img alt="react" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <br></br>
     <img alt="python" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
     <img alt="django" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
     <img alt="flask" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
