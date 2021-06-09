@@ -5,8 +5,8 @@
 [<img style="float: left;" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />][whatsapp]
 [<img style="float: left;" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
 
-- 🔭 I’m currently working on finding my first job as a web developer coming from mechanical engineering.
-- 🌱 I’m currently learning Firebase
+- 🔭 I’m currently working as a Backend Developer as part of the Django development team.
+- 🌱 I’m currently learning Node (Express).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I will return to the gym, next monday.
 
