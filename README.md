@@ -5,7 +5,7 @@
 [<img style="float: left;" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />][whatsapp]
 [<img style="float: left;" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
 
-- 🔭 I’m currently working as a Backend Developer as part of the Django development team.
+- 🔭 I’m a Full Stack Developer! Currently working as Backend Developer, working along with the team developíng an ERP with Django.
 - 🌱 I’m currently learning Node (Express).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I will return to the gym, next monday.
