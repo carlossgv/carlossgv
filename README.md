@@ -30,7 +30,6 @@
     <img alt="postgresql" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
-https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/46651584
 [<img style="float: left;" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/46651584" />][gcp_cert]
 
 ---
