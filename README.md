@@ -28,8 +28,13 @@
     <img alt="git" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img alt="sqlite" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
     <img alt="postgresql" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <br></br>
+      <a href="https://www.qries.com/">
+         <img alt="Google Cloud Certification" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/46651584"/>
+      </a>
 </div>
-<br></br>
+
+
 [<img style="float: left;" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/46651584" />][gcp_cert]
 
 ---
