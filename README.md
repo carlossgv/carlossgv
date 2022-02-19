@@ -6,10 +6,9 @@
 [<img style="float: left;" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
 
 - 🔭 I’m a Full Stack Developer! Currently working on a project involving Nest JS, Next JS and Azure.
-- 🌱 I’m currently learning Microsoft Azure.
+- 🌱 I’m currently learning Google Cloud Platform.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I will return to the gym, next monday.
-
 ---
 
 ### :rocket: Skills
@@ -31,6 +30,9 @@
     <img alt="postgresql" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
+https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/46651584
+[<img style="float: left;" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/46651584" />][gcp_cert]
+
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlossgv&show_icons=true&theme=ayu-mirage)](https://github.com/carlossgv/github-readme-stats)
@@ -42,3 +44,4 @@
 [gmail]: mailto:carlossgv@gmail.com
 [whatsapp]: https://wa.link/99d94m
 [telegram]: https://t.me/carlossgv
+[gcp_cert]: https://www.credential.net/0e6f144e-71f7-4fd1-aaf6-5257cfc49feb
