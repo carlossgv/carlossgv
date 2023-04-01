@@ -6,8 +6,6 @@
 [<img style="float: left;" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
 
 - 🔭 I’m a Full Stack Developer! Currently working on a project involving Nest JS, Next JS and Azure.
-- 🌱 I’m currently learning Google Cloud Platform.
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I will return to the gym, next monday.
 ---
 
