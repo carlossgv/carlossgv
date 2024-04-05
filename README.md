@@ -27,8 +27,8 @@
     <img alt="sqlite" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
     <img alt="postgresql" style="float: left; padding-right: 0 !important" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     <br></br>
-      <a href="https://www.credential.net/0e6f144e-71f7-4fd1-aaf6-5257cfc49feb">
-         <img alt="Google Cloud Certification" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/46651584"/>
+      <a href="https://www.credly.com/badges/7234108e-998c-461f-b4ab-513685f707f2/public_url">
+         <img alt="Google Cloud Certification" src="https://www.credly.com/badges/7234108e-998c-461f-b4ab-513685f707f2/public_url"/>
       </a>
 </div>
 
@@ -36,11 +36,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlossgv&show_icons=true&theme=ayu-mirage)](https://github.com/carlossgv/github-readme-stats)
 
-
+---
 
 [email]: mailto:carlossgv@gmail.com
 [linkedin]: https://www.linkedin.com/in/carlossgv/
 [gmail]: mailto:carlossgv@gmail.com
 [whatsapp]: https://wa.link/99d94m
 [telegram]: https://t.me/carlossgv
-[gcp_cert]: https://www.credly.com/badges/7234108e-998c-461f-b4ab-513685f707f2/public_url
