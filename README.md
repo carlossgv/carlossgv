@@ -43,4 +43,4 @@
 [gmail]: mailto:carlossgv@gmail.com
 [whatsapp]: https://wa.link/99d94m
 [telegram]: https://t.me/carlossgv
-[gcp_cert]: https://www.credential.net/0e6f144e-71f7-4fd1-aaf6-5257cfc49feb
+[gcp_cert]: https://www.credly.com/badges/7234108e-998c-461f-b4ab-513685f707f2/public_url
